@@ -1,0 +1,2 @@
+# struts2-dubbo
+web根目录下view子模块为struts2学习目录，provider和consume模块为dubbo学习目录。
